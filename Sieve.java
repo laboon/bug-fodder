@@ -46,8 +46,11 @@ public class Sieve {
 		j++;
 	    }
 	} else {
-	    System.out.println("BLANK");
+	    System.out.print("BLANK");
 	}
+
+	System.out.println("");
+	
     }
 
     /**
